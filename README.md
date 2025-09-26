@@ -1,6 +1,6 @@
 # 🔢 Números Primos com e sem Threads em Java
 
-Bem-vindo(a) ao **Numeros Primos**!
+Bem-vindo(a) ao **Calculo de Numeros Primos**!
 
 Este projeto implementa um programa em **Java** que encontra números primos em um intervalo definido pelo usuário.  
 
